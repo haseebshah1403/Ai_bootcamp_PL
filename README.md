@@ -1,4 +1,4 @@
-# 🚀 AI & Machine Learning Bootcamp
+#  AI & Machine Learning Bootcamp
 
 > **Building Intelligent Systems • Engineering AI Solutions**
 
@@ -6,7 +6,7 @@ A curated collection of my learning journey throughout the AI & Machine Learning
 
 ---
 
-## 📅 Week 1 — Python & Development Foundations
+##  Week 1 — Python & Development Foundations
 
 ### 🐍 Python Essentials
 
@@ -32,7 +32,7 @@ A curated collection of my learning journey throughout the AI & Machine Learning
 
 ---
 
-## 📅 Week 2 — Data Analysis & Professional Workflow
+##  Week 2 — Data Analysis & Professional Workflow
 
 ### 🐼 Pandas
 
@@ -84,10 +84,10 @@ Each week combines theory with hands-on implementation, emphasizing clean coding
 
 ### 📌 Repository Roadmap
 
-* ✅ Week 1 — Python & Development Foundations
-* ✅ Week 2 — Data Analysis & Professional Workflow
-* 🔄 Upcoming — Machine Learning Fundamentals
-* 🚀 Upcoming — Real-World AI Projects
+*  Week 1 — Python & Development Foundations
+*  Week 2 — Data Analysis & Professional Workflow
+*  Upcoming — Machine Learning Fundamentals
+*  Upcoming — Real-World AI Projects
 
 ---
 

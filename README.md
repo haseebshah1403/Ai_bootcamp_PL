@@ -1,53 +1,64 @@
-# Ai_bootcamp_PL
-
 # 🚀 AI & Machine Learning Bootcamp
 
 > **Building Intelligent Systems • Engineering AI Solutions**
 
-This repository documents my learning journey throughout the AI & Machine Learning Bootcamp. Each week focuses on strengthening core concepts through hands-on coding, real-world datasets, and practical exercises.
+A curated collection of my learning journey throughout the AI & Machine Learning Bootcamp. This repository showcases hands-on exercises, practical implementations, and projects as I build a strong foundation in AI, Machine Learning, and Python development.
 
 ---
 
-## 📅 Week 1 — Python Foundations & Data
+## 📅 Week 1 — Python & Development Foundations
 
-### 💻 Python Fundamentals
+### 🐍 Python Essentials
 
+* Python Basics
 * Variables & Data Types
-* Conditional Statements
-* Loops
+* Conditional Statements & Loops
 * Functions
 * Lists, Tuples, Dictionaries & Sets
-* File Handling Basics
 
-### 📊 Data Foundations
+### 🔢 NumPy Fundamentals
 
-* Introduction to Datasets
-* Understanding DataFrames
-* Loading CSV Files
-* Exploring Structured Data
-* Basic Data Manipulation
+* Array Creation
+* Indexing & Slicing
+* Basic Operations
+* Mathematical Functions
+
+### ⚙️ Development Workflow
+
+* Command Line Interface (CLI)
+* Virtual Environments
+* File Handling in Python
+* Project Setup & Folder Structure
 
 ---
 
-## 📅 Week 2 — NumPy & Pandas Essentials
-
-### 🔢 NumPy
-
-* Array Creation & Indexing
-* Reshaping Arrays
-* Mathematical Operations
-* Aggregations
-* Handling Missing Values
+## 📅 Week 2 — Data Analysis & Professional Workflow
 
 ### 🐼 Pandas
 
-* Series & DataFrames
-* Viewing & Inspecting Data
-* Selecting Rows & Columns
-* Filtering & Sorting
-* Applying Functions
-* Working with Real-world Datasets
-* Basic Data Cleaning
+* DataFrames & Series
+* Viewing & Exploring Data
+* Indexing & Filtering
+* Advanced Pandas Functions
+* Applying Functions on Datasets
+* Data Cleaning & Transformation
+
+### 📊 Data Visualization
+
+* Data Exploration
+* Charts & Graphs
+* Visualizing Dataset Insights
+
+### 🚀 Software Engineering Practices
+
+* Git & GitHub Fundamentals
+* Project Organization in Python
+* Environment Management
+
+  * Local Development
+  * Cloud Environment
+  * Production Environment
+* Collaboration & Version Control
 
 ---
 
@@ -56,17 +67,28 @@ This repository documents my learning journey throughout the AI & Machine Learni
 * Python
 * NumPy
 * Pandas
-* Jupyter Notebook
+* Matplotlib
 * Git & GitHub
+* Jupyter Notebook
+* VS Code
 
 ---
 
-## 🎯 Learning Philosophy
+## 🎯 Learning Approach
 
-> **Learn → Practice → Build → Improve**
+> **Learn → Practice → Build → Iterate**
 
-Every notebook and exercise in this repository represents hands-on implementation of concepts learned during the bootcamp, with a focus on writing clean code and building a strong foundation for AI and Machine Learning.
+Each week combines theory with hands-on implementation, emphasizing clean coding practices, data-driven problem solving, and building scalable AI solutions.
 
 ---
 
-⭐ *This repository will continue to grow as I progress through the bootcamp.*
+### 📌 Repository Roadmap
+
+* ✅ Week 1 — Python & Development Foundations
+* ✅ Week 2 — Data Analysis & Professional Workflow
+* 🔄 Upcoming — Machine Learning Fundamentals
+* 🚀 Upcoming — Real-World AI Projects
+
+---
+
+⭐ **This repository will continue to evolve as I progress through the bootcamp, documenting new concepts, projects, and practical AI implementations.**
